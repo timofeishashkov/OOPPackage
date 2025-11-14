@@ -8,6 +8,8 @@
 }
 \arguments{
 \item{object}{A foo object}
+
+\item{...}{Some additional paramteres (ignored)}
 }
 \description{
 bar method for foo objects
