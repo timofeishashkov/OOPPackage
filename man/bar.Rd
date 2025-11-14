@@ -8,6 +8,8 @@ bar(object, ...)
 }
 \arguments{
 \item{object}{An object}
+
+\item{...}{Some additional parameters (ignored)}
 }
 \value{
 Method depends on class
